@@ -58,7 +58,7 @@ input[type="radio"]:checked {
 
 .radio{
     display: flex;
-    gap: 33vw;
+    gap: 31vw;
     margin-bottom: 2vh;
 }
 
@@ -145,4 +145,5 @@ p{
     padding-bottom: 6vh;
     text-align: center;
     padding-top: 0px;
+
 }
