@@ -1,0 +1,27 @@
+{
+    "manifest_version": 3,
+    "name": "Dices",
+    "version": "0.0.0",
+    "description": "Extensão para rolar dados: d4, d6, d8, d10, d12, d20 e d100.",
+    "icons": {
+      "16": "icons/16.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "128": "icons/128.png"
+    },
+    "action": {
+      "default_title": "Dices",
+      "default_popup": "src/popup/popup.html",
+      "default_icon": {
+        "16": "icons/16.png",
+        "32": "icons/32.png",
+        "48": "icons/48.png",
+        "128": "icons/128.png"
+      }
+    },
+    "permissions": ["storage"],
+    
+    "background": {
+      "service_worker": "src/background/service-worker.js"
+    }
+  }
