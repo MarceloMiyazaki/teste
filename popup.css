@@ -1,0 +1,143 @@
+body{
+    background-color: rgb(209, 209, 209);
+    width: 220px;
+    padding: 10px;
+}
+
+.buttons1{
+    margin-left: 8px;
+    display: flex;
+    width: 80vw;
+    justify-content: space-around;
+    margin-top: 10px
+}
+
+.buttons2{
+    margin-left: 35px;
+    display: flex;
+    width: 60vw;
+    justify-content: space-around;
+    margin-top: 15px
+}
+
+#d4{
+    padding: 10px;
+    border-radius: 5px;
+    border: rgb(107, 107, 107) solid 3px;
+    background-color: rgb(107, 107, 107);
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration-style: none;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+}
+
+#d4:hover {opacity: 0.5}
+
+#d6{
+    padding: 10px;
+    border-radius: 5px;
+    border: rgb(107, 107, 107) solid 3px;
+    background-color: rgb(107, 107, 107);
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration-style: none;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+}
+
+#d6:hover {opacity: 0.5}
+
+#d8{
+    padding: 10px;
+    border-radius: 5px;
+    border: rgb(107, 107, 107) solid 3px;
+    background-color: rgb(107, 107, 107);
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration-style: none;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+}
+
+#d8:hover {opacity: 0.5}
+
+#d10{
+    padding: 10px 6px;
+    border-radius: 5px;
+    border: rgb(107, 107, 107) solid 3px;
+    background-color: rgb(107, 107, 107);
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration-style: none;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+}
+
+#d10:hover {opacity: 0.5}
+
+#d12{
+    padding: 10px 6.5px;
+    border-radius: 5px;
+    border: rgb(107, 107, 107) solid 3px;
+    background-color: rgb(107, 107, 107);
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration-style: none;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+}
+
+#d12:hover {opacity: 0.5}
+
+#d20{
+    padding: 10px 6px;
+    border-radius: 5px;
+    border: rgb(107, 107, 107) solid 3px;
+    background-color: rgb(107, 107, 107);
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration-style: none;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+}
+
+#d20:hover {opacity: 0.5}
+
+#d100{
+    padding: 10px 2.5px;
+    border-radius: 5px;
+    border: rgb(107, 107, 107) solid 3px;
+    background-color: rgb(107, 107, 107);
+    opacity: 1;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration-style: none;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+}
+
+#d100:hover {opacity: 0.5}
+
+p{
+    text-align: center;
+    font-weight: bold;
+    font-size:large;
+}
+
+hr{
+    border: 1px solid ;
+}
+
+#registro{
+    margin-top: 5px;
+    max-height: 100px;
+    overflow-y: auto;
+    padding-left: 15px;
+}
