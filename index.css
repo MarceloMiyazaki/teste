@@ -250,6 +250,7 @@ p{
 .dice{
     width: 7vh;
     height: 4.5vh;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 .ab{
@@ -303,3 +304,4 @@ details textarea{
     margin-right: 5vw;
 
 }
+
